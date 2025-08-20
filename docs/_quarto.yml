@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _build
+  render:
+    - "*.qmd"
+
+website:
+  title: "franklin"
+  page-navigation: false
+  # sidebar:
+  #   - id: pages
+  #     title: Get Started
+  #     style: floating
+  #     align: left
+  #     contents:
+  #       - index.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+
