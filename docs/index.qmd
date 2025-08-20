@@ -4,12 +4,12 @@ format:
   html:
     include-in-header:
       text: |
-        <meta http-equiv="refresh" content="0; url=https://kmt-research.github.io/franklin-cli/">
+        <meta http-equiv="refresh" content="0; url=https://munch-group.org/franklin-cli/">
         <script type="text/javascript">
-          window.location.href = "https://kmt-research.github.io/franklin-cli/"
+          window.location.href = "https://munch-group.org/franklin-cli/"
         </script>
 ---
 
 # Franklin Documentation
-If you are not redirected automatically, please visit the [Franklin documentation](https://kmt-research.github.io/franklin-cli/).
+If you are not redirected automatically, please visit the [Franklin documentation](https://munch-group/franklin-cli/).
 This page automatically redirects to the main Franklin documentation site.
